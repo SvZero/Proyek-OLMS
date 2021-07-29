@@ -14,10 +14,10 @@ Tugas Akhir Mata Kuliah Pemograman Web
 Sistem Manajemen Perpustakaan Online
 
 Anggota Kelompok
-• Jeskel Fornadi Gotama (20190801003 )
-• Fernando (20190801004 )
-• Oki Gunawan Pratama (20190801014)
-• Edwin (20190801015 )
+- Jeskel Fornadi Gotama (20190801003 )
+- Fernando (20190801004 )
+- Oki Gunawan Pratama (20190801014)
+- Edwin (20190801015 )
 
 
 sebelum memulai program harap ikuti langkah berikut agar program dapat berjalan dengan baik:
